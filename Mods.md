@@ -1,0 +1,21 @@
+# Liste des mods :
+- BetterStamina : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/FlipMods/BetterStamina/)
+- LetMeLookDown : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)
+- MoreEmotes : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
+- MoreSuits : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)
+- ReservedFlashlightSlot : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/)
+- ReservedWalkieSlot : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)
+- ShipLoot : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
+- YippeeMod : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
+- DiscountAlert : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/akechii/DiscountAlert/)
+- MetalRecharging : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/Bobbie/MetalRecharging/)
+- Mimics : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
+- MoreCompany : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)
+- Sombrero : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/FluxTeam/Sombrero/)
+- GlowStickSuits : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/Norman/GlowStickSuits/)
+
+# Liste des mods API/Services :
+- BepInExPack : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
+- LC_API [Cliquer ici](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)
+- ReservedItemSlotCore [Cliquer ici](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)
+- Runtime Netcode Patcher [Cliquer ici](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/)
