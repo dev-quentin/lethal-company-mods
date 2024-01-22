@@ -12,10 +12,16 @@
 - Mimics : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
 - MoreCompany : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)
 - Sombrero : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/FluxTeam/Sombrero/)
-- GlowStickSuits : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/Norman/GlowStickSuits/)
+- LethalFashion : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/)
+- AdditionalSuits : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/)
+- Corporate_Restructure : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure/)
+- Helmet_Cameras : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
+- MaskedEnemyOverhaul : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)
+- TooManySuits : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/)
 
 # Liste des mods API/Services :
 - BepInExPack : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
 - LC_API [Cliquer ici](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)
 - ReservedItemSlotCore [Cliquer ici](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)
 - Runtime Netcode Patcher [Cliquer ici](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/)
+- AdditionalContentFramework [Cliquer ici](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalContentFramework/)
