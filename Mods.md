@@ -18,6 +18,12 @@
 - Helmet_Cameras : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
 - MaskedEnemyOverhaul : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)
 - TooManySuits : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/)
+- Diversity : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
+- Hold Scan Button : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/)
+- Nintendo Hats : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/Luigi/Nintendo_Hats/)
+- SimpleHats : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/fonnymunkey/SimpleHats/)
+- Skinwalkers : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
+- EmberCosmeticsPack : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/TombEmber/EmberCosmeticsPack/)
 
 # Liste des mods API/Services :
 - BepInExPack : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)

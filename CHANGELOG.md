@@ -1,4 +1,51 @@
 # Changelog
+Version 1.0.2 - 11/02/2023
+
+## Ajouts
+
+- Diversity
+- Hold Scan Button
+- LC API
+- Runtime Netcode Patcher
+- AdditionalContentFramework
+- Nintendo Hats
+- SimpleHats
+- Skinwalkers
+- EmberCosmeticsPack
+
+## Mise à jour
+
+- More Emotes
+- ReservedItemSlotCore
+- ReservedFlashlightSlot
+- ReservedWalkieSlot
+- YippeeMod
+- Mimics
+- MoreCompany
+- MaskedEnemyOverhaul
+
+# Changelog
+Version 1.0.1 - Update (22/01/2023)
+
+## Ajouts
+- LethalFashion
+- AdditionalContentFramework
+- AdditionalSuits
+- Corporate_Restructure
+- Helmet_Cameras
+- MaskedEnemyOverhaul
+- TooManySuits
+
+## Mise à jour
+
+- ReservedItemSlotCore
+- ReservedFlashlightSlot
+- ReservedWalkieSlot
+
+## Suppresion
+- GlowStickSuits
+
+# Changelog
 Version 1.0.0 - Commit Initial (12/01/2023)
 
 ## Ajouts
@@ -44,24 +91,3 @@ En cas de bugs ou de problèmes, veuillez consulter le fichier de logs pour des 
     LC_API
     ReservedItemSlotCore
     Runtime Netcode Patcher
-
-# Changelog
-Version 1.0.1 - Update (22/01/2023)
-
-## Ajouts
-- LethalFashion
-- AdditionalContentFramework
-- AdditionalSuits
-- Corporate_Restructure
-- Helmet_Cameras
-- MaskedEnemyOverhaul
-- TooManySuits
-
-## Mise à jour
-
-- ReservedItemSlotCore
-- ReservedFlashlightSlot
-- ReservedWalkieSlot
-
-## Suppresion
-- GlowStickSuits
