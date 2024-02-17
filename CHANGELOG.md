@@ -1,4 +1,45 @@
 # Changelog
+Version 1.0.3 - 17/02/2023
+
+## Ajouts
+
+- Custom Boombox Music
+
+## Suppresion
+
+- Cosmétiques :
+    - 3dshat
+    - armyberet-ember
+    - bowsershell
+    - cape-ember
+    - dunce-ember
+    - gasmask
+    - ghostmajorasmask-ember
+    - m64headhat
+    - majorasmask-ember
+    - mariosleephat
+    - ninjamask-ember
+    - odst-ember
+    - onimask-ember
+    - pipehat
+    - poltergust
+    - propellerhat
+    - redshellback
+    - redshellhat
+    - retrocomputer-ember
+    - robhat
+    - sanshat
+    - scavengerrider-ember
+    - scuba-ember
+    - shellback
+    - shellhat
+    - snareflea-ember
+    - splintercell-ember
+    - tetrishat
+    - waddledeehat
+    - weldersmask-ember
+
+# Changelog
 Version 1.0.2 - 11/02/2023
 
 ## Ajouts

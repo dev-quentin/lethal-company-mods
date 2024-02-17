@@ -24,6 +24,7 @@
 - SimpleHats : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/fonnymunkey/SimpleHats/)
 - Skinwalkers : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
 - EmberCosmeticsPack : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/TombEmber/EmberCosmeticsPack/)
+- Custom Boombox Music : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/)
 
 # Liste des mods API/Services :
 - BepInExPack : [Cliquer ici](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
