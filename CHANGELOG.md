@@ -1,4 +1,27 @@
 # Changelog
+Version 1.0.4 - 21/04/2024
+
+## Remarques
+
+- [Runtime Netcode Patcher](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/) est obsolète.
+
+## Mise à jour
+
+- ReservedItemSlotCore
+- Skinwalker
+- Diversity
+- Too Many Suits
+- MaskedEnemyRework
+- LethalFashion
+- MoreCompany
+- Mimics
+- Yippee
+- ShipLoot
+- ReservedWalkieSlot
+- ReservedFlashlightSlot
+- More Suits
+
+# Changelog
 Version 1.0.3 - 17/02/2023
 
 ## Ajouts
