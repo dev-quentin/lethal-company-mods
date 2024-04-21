@@ -25,7 +25,7 @@ Assurez-vous que les dossiers tels que `config`, `core`, `patchers` et `plugins`
 
 ## Installation des Mods
 
-Téléchargez le [fichier zip](./plugins.zip) contenant [les mods](./Mods.md).
+Téléchargez le ou les fichiers zip contenant [les mods](./Mods.md).
 
 ### Extraction des Mods dans le dossier "plugins" de BepInEx
 
